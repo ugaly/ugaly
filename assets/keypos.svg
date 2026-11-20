@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Key POS — POS and inventory platform, launching 1 December 2026">
+  <defs>
+    <linearGradient id="kg" x1="0" x2="1"><stop offset="0" stop-color="#f78166"/><stop offset="1" stop-color="#d29922"/></linearGradient>
+    <radialGradient id="kr" cx="0" cy="0" r="1"><stop offset="0" stop-color="#f78166" stop-opacity=".18"/><stop offset="1" stop-color="#f78166" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>
+    .b{animation:bl 1.2s step-end infinite}@keyframes bl{50%{opacity:.35}}
+  </style>
+  <rect x=".5" y=".5" width="999" height="279" rx="16" fill="#0d1117" stroke="#30363d"/>
+  <rect x=".5" y=".5" width="999" height="279" rx="16" fill="url(#kr)"/>
+  <rect x="28" y="0" width="220" height="3" rx="1.5" fill="url(#kg)"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <rect x="28" y="26" width="190" height="24" rx="12" fill="#f78166" fill-opacity=".14" stroke="#f78166" stroke-opacity=".5"/>
+    <circle class="b" cx="42" cy="38" r="4" fill="#f78166"/>
+    <text x="52" y="42" font-size="11" font-weight="700" fill="#f78166" letter-spacing="1">LAUNCHING 1 DEC 2026</text>
+    <text x="28" y="88" font-size="30" font-weight="800" fill="#e6edf3">Key POS</text>
+    <text x="170" y="88" font-size="16" fill="#8b949e">— point of sale &amp; inventory for multi-branch businesses</text>
+    <text x="28" y="116" font-size="14" fill="#8b949e">Multilingual staff · stock transfer, tracking &amp; counting · role-based web, mobile &amp; POS terminal apps</text>
+  </g>
+  <line x1="73.0" y1="165.0" x2="123.9" y2="165.0" stroke="#f78166" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M121.9,161.0 L127.9,165.0 L121.9,169.0" fill="none" stroke="#f78166" stroke-opacity=".6" stroke-width="1.5"/>
+<circle r="3.5" fill="#f78166"><animateMotion dur="2.4s" begin="0.0s" repeatCount="indefinite" path="M73.0,165.0 L123.9,165.0" keyPoints="0;1;1" keyTimes="0;0.45;1" calcMode="linear"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.4;.45;1" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<line x1="196.0" y1="165.0" x2="246.9" y2="165.0" stroke="#f78166" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M244.9,161.0 L250.9,165.0 L244.9,169.0" fill="none" stroke="#f78166" stroke-opacity=".6" stroke-width="1.5"/>
+<circle r="3.5" fill="#f78166"><animateMotion dur="2.4s" begin="0.6s" repeatCount="indefinite" path="M196.0,165.0 L246.9,165.0" keyPoints="0;1;1" keyTimes="0;0.45;1" calcMode="linear"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.4;.45;1" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<line x1="365.0" y1="165.0" x2="415.9" y2="165.0" stroke="#f78166" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M413.9,161.0 L419.9,165.0 L413.9,169.0" fill="none" stroke="#f78166" stroke-opacity=".6" stroke-width="1.5"/>
+<circle r="3.5" fill="#f78166"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M365.0,165.0 L415.9,165.0" keyPoints="0;1;1" keyTimes="0;0.45;1" calcMode="linear"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.4;.45;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<line x1="526.4" y1="165.0" x2="577.2" y2="165.0" stroke="#f78166" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M575.2,161.0 L581.2,165.0 L575.2,169.0" fill="none" stroke="#f78166" stroke-opacity=".6" stroke-width="1.5"/>
+<circle r="3.5" fill="#f78166"><animateMotion dur="2.4s" begin="1.8s" repeatCount="indefinite" path="M526.4,165.0 L577.2,165.0" keyPoints="0;1;1" keyTimes="0;0.45;1" calcMode="linear"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.4;.45;1" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></circle>
+<line x1="703.1" y1="165.0" x2="753.9" y2="165.0" stroke="#f78166" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M751.9,161.0 L757.9,165.0 L751.9,169.0" fill="none" stroke="#f78166" stroke-opacity=".6" stroke-width="1.5"/>
+<circle r="3.5" fill="#f78166"><animateMotion dur="2.4s" begin="2.4s" repeatCount="indefinite" path="M703.1,165.0 L753.9,165.0" keyPoints="0;1;1" keyTimes="0;0.45;1" calcMode="linear"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.4;.45;1" dur="2.4s" begin="2.4s" repeatCount="indefinite"/></circle>
+<line x1="818.3" y1="165.0" x2="869.2" y2="165.0" stroke="#f78166" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M867.2,161.0 L873.2,165.0 L867.2,169.0" fill="none" stroke="#f78166" stroke-opacity=".6" stroke-width="1.5"/>
+<circle r="3.5" fill="#f78166"><animateMotion dur="2.4s" begin="3.0s" repeatCount="indefinite" path="M818.3,165.0 L869.2,165.0" keyPoints="0;1;1" keyTimes="0;0.45;1" calcMode="linear"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.4;.45;1" dur="2.4s" begin="3.0s" repeatCount="indefinite"/></circle>
+<g><rect x="28.0" y="148" width="45.0" height="34" rx="8" fill="#161b22" stroke="#f78166" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></rect>
+      <text x="50.5" y="169.0" text-anchor="middle" font-size="12" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Web</text></g>
+<g><rect x="127.9" y="148" width="68.1" height="34" rx="8" fill="#161b22" stroke="#f78166" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></rect>
+      <text x="161.9" y="169.0" text-anchor="middle" font-size="12" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Mobile</text></g>
+<g><rect x="250.9" y="148" width="114.2" height="34" rx="8" fill="#161b22" stroke="#f78166" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></rect>
+      <text x="307.9" y="169.0" text-anchor="middle" font-size="12" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">POS terminal</text></g>
+<g><rect x="419.9" y="148" width="106.5" height="34" rx="8" fill="#161b22" stroke="#f78166" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></rect>
+      <text x="473.1" y="169.0" text-anchor="middle" font-size="12" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">API Gateway</text></g>
+<g><rect x="581.2" y="148" width="121.8" height="34" rx="8" fill="#161b22" stroke="#f78166" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="2.4s" repeatCount="indefinite"/></rect>
+      <text x="642.1" y="169.0" text-anchor="middle" font-size="12" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Microservices</text></g>
+<g><rect x="757.9" y="148" width="60.4" height="34" rx="8" fill="#161b22" stroke="#f78166" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="3.0s" repeatCount="indefinite"/></rect>
+      <text x="788.1" y="169.0" text-anchor="middle" font-size="12" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Kafka</text></g>
+<g><rect x="873.2" y="148" width="98.8" height="34" rx="8" fill="#161b22" stroke="#f78166" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="3.6s" repeatCount="indefinite"/></rect>
+      <text x="922.6" y="169.0" text-anchor="middle" font-size="12" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">PostgreSQL</text></g>
+  <rect x="28.0" y="208" width="194.0" height="22" rx="11" fill="#f78166" fill-opacity=".12" stroke="#f78166" stroke-opacity=".35"/><text x="125.0" y="223" text-anchor="middle" font-size="11" fill="#f78166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Spring Boot microservices</text><rect x="230.0" y="208" width="67.3" height="22" rx="11" fill="#f78166" fill-opacity=".12" stroke="#f78166" stroke-opacity=".35"/><text x="263.6" y="223" text-anchor="middle" font-size="11" fill="#f78166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Next.js</text><rect x="305.3" y="208" width="151.8" height="22" rx="11" fill="#f78166" fill-opacity=".12" stroke="#f78166" stroke-opacity=".35"/><text x="381.2" y="223" text-anchor="middle" font-size="11" fill="#f78166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">React Native / Expo</text><rect x="465.0" y="208" width="53.2" height="22" rx="11" fill="#f78166" fill-opacity=".12" stroke="#f78166" stroke-opacity=".35"/><text x="491.6" y="223" text-anchor="middle" font-size="11" fill="#f78166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Kafka</text><rect x="526.2" y="208" width="53.2" height="22" rx="11" fill="#f78166" fill-opacity=".12" stroke="#f78166" stroke-opacity=".35"/><text x="552.8" y="223" text-anchor="middle" font-size="11" fill="#f78166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Redis</text><rect x="587.4" y="208" width="60.2" height="22" rx="11" fill="#f78166" fill-opacity=".12" stroke="#f78166" stroke-opacity=".35"/><text x="617.6" y="223" text-anchor="middle" font-size="11" fill="#f78166" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Docker</text>
+  <text x="972" y="250" text-anchor="end" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#e6edf3">keypos.store  ·  Read case study <tspan fill="#f78166">→</tspan></text>
+</svg>

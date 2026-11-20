@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" viewBox="0 0 480 250" role="img" aria-label="Payment &amp; Billing — Business systems wired to banks &amp; gateways">
+  <defs>
+    <linearGradient id="tpayment-integrations" x1="0" x2="1"><stop offset="0" stop-color="#3fb950"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></linearGradient>
+    <radialGradient id="rpayment-integrations" cx="1" cy="0" r=".9"><stop offset="0" stop-color="#3fb950" stop-opacity=".16"/><stop offset="1" stop-color="#3fb950" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>.ar{animation:a 1.6s ease-in-out infinite}@keyframes a{50%{transform:translateX(4px)}}</style>
+  <rect x=".5" y=".5" width="479" height="249" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <rect x=".5" y=".5" width="479" height="249" rx="14" fill="url(#rpayment-integrations)"/>
+  <rect x="24" y="0" width="140" height="3" rx="1.5" fill="url(#tpayment-integrations)"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="24" y="40" font-size="12" fill="#3fb950" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" letter-spacing="1">01 · INTEGRATIONS</text>
+    <text x="24" y="68" font-size="21" font-weight="700" fill="#e6edf3">Payment &amp; Billing</text>
+    <text x="24" y="92" font-size="13" fill="#8b949e">Business systems wired to banks &amp; gateways</text>
+  </g>
+  <line x1="116.4" y1="135.0" x2="128.5" y2="135.0" stroke="#3fb950" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M126.5,131.0 L132.5,135.0 L126.5,139.0" fill="none" stroke="#3fb950" stroke-opacity=".6" stroke-width="1.5"/>
+<circle r="3.5" fill="#3fb950"><animateMotion dur="2.4s" begin="0.0s" repeatCount="indefinite" path="M116.4,135.0 L128.5,135.0" keyPoints="0;1;1" keyTimes="0;0.45;1" calcMode="linear"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.4;.45;1" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<line x1="231.9" y1="135.0" x2="244.1" y2="135.0" stroke="#3fb950" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M242.1,131.0 L248.1,135.0 L242.1,139.0" fill="none" stroke="#3fb950" stroke-opacity=".6" stroke-width="1.5"/>
+<circle r="3.5" fill="#3fb950"><animateMotion dur="2.4s" begin="0.6s" repeatCount="indefinite" path="M231.9,135.0 L244.1,135.0" keyPoints="0;1;1" keyTimes="0;0.45;1" calcMode="linear"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.4;.45;1" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<line x1="361.6" y1="135.0" x2="373.7" y2="135.0" stroke="#3fb950" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M371.7,131.0 L377.7,135.0 L371.7,139.0" fill="none" stroke="#3fb950" stroke-opacity=".6" stroke-width="1.5"/>
+<circle r="3.5" fill="#3fb950"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M361.6,135.0 L373.7,135.0" keyPoints="0;1;1" keyTimes="0;0.45;1" calcMode="linear"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.4;.45;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<g><rect x="24.0" y="120" width="92.4" height="30" rx="8" fill="#161b22" stroke="#3fb950" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></rect>
+      <text x="70.2" y="139.0" text-anchor="middle" font-size="11" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">ERP / Odoo</text></g>
+<g><rect x="132.5" y="120" width="99.4" height="30" rx="8" fill="#161b22" stroke="#3fb950" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></rect>
+      <text x="182.2" y="139.0" text-anchor="middle" font-size="11" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Billing API</text></g>
+<g><rect x="248.1" y="120" width="113.5" height="30" rx="8" fill="#161b22" stroke="#3fb950" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></rect>
+      <text x="304.8" y="139.0" text-anchor="middle" font-size="11" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">CRDB · Selcom</text></g>
+<g><rect x="377.7" y="120" width="78.3" height="30" rx="8" fill="#161b22" stroke="#3fb950" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></rect>
+      <text x="416.8" y="139.0" text-anchor="middle" font-size="11" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Callback</text></g>
+  <rect x="24.0" y="184" width="95.4" height="22" rx="11" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".35"/><text x="71.7" y="199" text-anchor="middle" font-size="11" fill="#3fb950" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Spring Boot</text><rect x="127.4" y="184" width="74.3" height="22" rx="11" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".35"/><text x="164.6" y="199" text-anchor="middle" font-size="11" fill="#3fb950" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Webhooks</text><rect x="209.8" y="184" width="46.2" height="22" rx="11" fill="#3fb950" fill-opacity=".12" stroke="#3fb950" stroke-opacity=".35"/><text x="232.8" y="199" text-anchor="middle" font-size="11" fill="#3fb950" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Odoo</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#e6edf3">
+    <text x="456" y="232" text-anchor="end">Read case study <tspan class="ar" fill="#3fb950">→</tspan></text>
+  </g>
+</svg>

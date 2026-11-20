@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" viewBox="0 0 480 250" role="img" aria-label="JZA Tracking — Fleet locations &amp; running costs">
+  <defs>
+    <linearGradient id="tjza-tracking" x1="0" x2="1"><stop offset="0" stop-color="#39c5cf"/><stop offset="1" stop-color="#39c5cf" stop-opacity="0"/></linearGradient>
+    <radialGradient id="rjza-tracking" cx="1" cy="0" r=".9"><stop offset="0" stop-color="#39c5cf" stop-opacity=".16"/><stop offset="1" stop-color="#39c5cf" stop-opacity="0"/></radialGradient>
+  </defs>
+  <style>.ar{animation:a 1.6s ease-in-out infinite}@keyframes a{50%{transform:translateX(4px)}}</style>
+  <rect x=".5" y=".5" width="479" height="249" rx="14" fill="#0d1117" stroke="#30363d"/>
+  <rect x=".5" y=".5" width="479" height="249" rx="14" fill="url(#rjza-tracking)"/>
+  <rect x="24" y="0" width="140" height="3" rx="1.5" fill="url(#tjza-tracking)"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">
+    <text x="24" y="40" font-size="12" fill="#39c5cf" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" letter-spacing="1">05 · LOGISTICS</text>
+    <text x="24" y="68" font-size="21" font-weight="700" fill="#e6edf3">JZA Tracking</text>
+    <text x="24" y="92" font-size="13" fill="#8b949e">Fleet locations &amp; running costs</text>
+  </g>
+  <line x1="116.4" y1="135.0" x2="159.0" y2="135.0" stroke="#39c5cf" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M157.0,131.0 L163.0,135.0 L157.0,139.0" fill="none" stroke="#39c5cf" stroke-opacity=".6" stroke-width="1.5"/>
+<circle r="3.5" fill="#39c5cf"><animateMotion dur="2.4s" begin="0.0s" repeatCount="indefinite" path="M116.4,135.0 L159.0,135.0" keyPoints="0;1;1" keyTimes="0;0.45;1" calcMode="linear"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.4;.45;1" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<line x1="227.3" y1="135.0" x2="269.9" y2="135.0" stroke="#39c5cf" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M267.9,131.0 L273.9,135.0 L267.9,139.0" fill="none" stroke="#39c5cf" stroke-opacity=".6" stroke-width="1.5"/>
+<circle r="3.5" fill="#39c5cf"><animateMotion dur="2.4s" begin="0.6s" repeatCount="indefinite" path="M227.3,135.0 L269.9,135.0" keyPoints="0;1;1" keyTimes="0;0.45;1" calcMode="linear"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.4;.45;1" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<line x1="352.2" y1="135.0" x2="394.8" y2="135.0" stroke="#39c5cf" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 4"><animate attributeName="stroke-dashoffset" from="8" to="0" dur=".6s" repeatCount="indefinite"/></line>
+<path d="M392.8,131.0 L398.8,135.0 L392.8,139.0" fill="none" stroke="#39c5cf" stroke-opacity=".6" stroke-width="1.5"/>
+<circle r="3.5" fill="#39c5cf"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M352.2,135.0 L394.8,135.0" keyPoints="0;1;1" keyTimes="0;0.45;1" calcMode="linear"/><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;.05;.4;.45;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<g><rect x="24.0" y="120" width="92.4" height="30" rx="8" fill="#161b22" stroke="#39c5cf" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></rect>
+      <text x="70.2" y="139.0" text-anchor="middle" font-size="11" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">GPS device</text></g>
+<g><rect x="163.0" y="120" width="64.2" height="30" rx="8" fill="#161b22" stroke="#39c5cf" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></rect>
+      <text x="195.1" y="139.0" text-anchor="middle" font-size="11" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Ingest</text></g>
+<g><rect x="273.9" y="120" width="78.3" height="30" rx="8" fill="#161b22" stroke="#39c5cf" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></rect>
+      <text x="313.0" y="139.0" text-anchor="middle" font-size="11" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Live map</text></g>
+<g><rect x="398.8" y="120" width="57.2" height="30" rx="8" fill="#161b22" stroke="#39c5cf" stroke-opacity=".55">
+      <animate attributeName="stroke-opacity" values=".55;1;.55" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></rect>
+      <text x="427.4" y="139.0" text-anchor="middle" font-size="11" fill="#e6edf3" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace">Costs</text></g>
+  <rect x="24.0" y="184" width="46.2" height="22" rx="11" fill="#39c5cf" fill-opacity=".12" stroke="#39c5cf" stroke-opacity=".35"/><text x="47.1" y="199" text-anchor="middle" font-size="11" fill="#39c5cf" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Java</text><rect x="78.2" y="184" width="46.2" height="22" rx="11" fill="#39c5cf" fill-opacity=".12" stroke="#39c5cf" stroke-opacity=".35"/><text x="101.2" y="199" text-anchor="middle" font-size="11" fill="#39c5cf" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">Maps</text><rect x="132.3" y="184" width="53.2" height="22" rx="11" fill="#39c5cf" fill-opacity=".12" stroke="#39c5cf" stroke-opacity=".35"/><text x="158.9" y="199" text-anchor="middle" font-size="11" fill="#39c5cf" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif">React</text>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#e6edf3">
+    <text x="456" y="232" text-anchor="end">Read case study <tspan class="ar" fill="#39c5cf">→</tspan></text>
+  </g>
+</svg>
