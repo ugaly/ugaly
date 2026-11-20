@@ -82,7 +82,7 @@
   <summary><b>📊 More GitHub stats</b></summary>
   <br/>
   <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ugaly&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" alt="GitHub stats"/>
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ugaly&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950" alt="GitHub stats"/>
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugaly&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages"/>
   </p>
   <p align="center">
