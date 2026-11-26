@@ -5,18 +5,22 @@
   </a>
 
   <p>
-    <a href="https://mwalwama-joseph.vercel.app">Portfolio</a>
-    &nbsp;·&nbsp;
-    <a href="https://mwalwama-joseph.vercel.app/projects">Selected work</a>
-    &nbsp;·&nbsp;
-    <a href="https://mwalwama-joseph.vercel.app/resume">Résumé</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/joseph-mwalwama-113a18229/">LinkedIn</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:mwalwamaj@gmail.com">Email</a>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=Backend+systems+%E2%80%A2+Web+%E2%80%A2+Mobile;Spring+Boot+%E2%80%A2+Kafka+%E2%80%A2+PostgreSQL;Payment+integrations+%E2%80%A2+Business+automation;From+architecture+to+production+delivery" alt="Engineering focus" />
   </p>
 
-  <sub>Dar es Salaam, Tanzania · Available for remote collaboration</sub>
+  <p>
+    <a href="https://mwalwama-joseph.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://mwalwama-joseph.vercel.app/services"><img src="https://img.shields.io/badge/Work%20with%20me-Services-1252A5?style=for-the-badge&logo=handshake&logoColor=white" alt="Services" /></a>
+    <a href="https://mwalwama-joseph.vercel.app/resume"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-Download-1f6feb?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé" /></a>
+    <a href="https://www.linkedin.com/in/joseph-mwalwama-113a18229/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:mwalwamaj@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ugaly&style=flat-square&color=58a6ff&label=profile+views" alt="Profile views" />
+  </p>
+
+  <sub>Dar es Salaam, Tanzania · Remote-friendly · Web and mobile engineering</sub>
 
 </div>
 
@@ -24,7 +28,7 @@
 
 ## I build software that businesses run on.
 
-I'm Joseph — a full-stack developer working across backend systems, web applications, mobile products and integrations. I enjoy taking a business problem from its first workflow through architecture, implementation, deployment and ongoing improvement.
+I'm Joseph — a full-stack developer working across backend systems, web applications, mobile products and integrations. I take business problems from the first workflow through architecture, implementation, deployment and ongoing improvement.
 
 My work sits at the intersection of **product engineering and systems engineering**: making software useful to people while keeping the underlying systems dependable, secure and maintainable.
 
@@ -34,9 +38,13 @@ My work sits at the intersection of **product engineering and systems engineerin
 - **Platform:** Docker, Kubernetes, Linux, Nginx, Cloudflare, CI/CD
 - **Integrations:** payment gateways, institutional billing, REST, GraphQL, gRPC and event-driven workflows
 
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Developer terminal profile" width="100%" />
+</p>
+
 ## Selected work
 
-I prefer showing the problem and the system behind a product rather than presenting a wall of technology logos. Each project card links to its case study. Client-sensitive details are intentionally kept private.
+These case studies show the products, workflows and systems I've helped build. Client-sensitive details stay private.
 
 <div align="center">
   <a href="https://mwalwama-joseph.vercel.app/projects/payment-integrations">
@@ -63,13 +71,11 @@ I prefer showing the problem and the system behind a product rather than present
   <a href="https://mwalwama-joseph.vercel.app/projects"><strong>Explore all projects →</strong></a>
 </p>
 
-## Currently building
+## Currently building · Key POS
 
-### Key POS
+A point-of-sale and business operations platform for shops, supermarkets and suppliers. It brings sales, inventory, purchasing and daily operations into one workflow across web and mobile.
 
-A point-of-sale and business operations platform for shops, supermarkets and suppliers. The product brings sales, inventory, purchasing and day-to-day operations into one workflow, with web and mobile experiences.
-
-The engineering challenge is not just the feature set: it is making a distributed backend, integrations and real-world shop workflows feel like one coherent product.
+The engineering challenge is making a distributed backend, integrations and real-world shop workflows feel like one coherent product.
 
 <a href="https://mwalwama-joseph.vercel.app/projects/key-pos">
   <img src="./assets/keypos.svg" width="100%" alt="Key POS — point of sale and inventory platform" />
@@ -81,8 +87,6 @@ Good architecture starts with the problem, not a list of fashionable technologie
 
 <img src="./assets/architecture.svg" width="100%" alt="Engineering architecture: web and mobile clients connect through APIs to domain services and fit-for-purpose data and messaging infrastructure" />
 
-**The principles I care about:**
-
 - **Clear boundaries:** services and modules own meaningful business capabilities.
 - **Data integrity:** explicit transaction boundaries, constraints, idempotency and reliable integration patterns.
 - **Resilience:** deliberate timeouts, bounded retries, graceful failure and observable workflows.
@@ -92,19 +96,23 @@ Good architecture starts with the problem, not a list of fashionable technologie
 
 ## Toolbox
 
-| Area | Technologies |
-|---|---|
-| Backend engineering | Java · Spring Boot · Spring Cloud · Python · Django · Laravel |
-| Web engineering | React · Next.js · TypeScript · JavaScript · Tailwind CSS |
-| Mobile engineering | React Native · Expo · NativeWind |
-| APIs & integration | REST · GraphQL · gRPC · WebSocket · SSE |
-| Data & messaging | PostgreSQL · MySQL · Redis · Kafka · RabbitMQ |
-| Infrastructure | Docker · Kubernetes · Linux · Nginx · Cloudflare |
-| Delivery | Git · GitHub Actions · CI/CD · Monitoring |
+I kept the visual technology stack because it makes the tools I work with immediately scannable.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,rabbitmq,redis,graphql,python,django,fastapi,laravel&perline=10" alt="Backend technologies: Java, Spring, Kafka, RabbitMQ, Redis, GraphQL, Python, Django, FastAPI and Laravel" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma&perline=10" alt="Web and mobile technologies: React, Next.js, TypeScript, JavaScript, Tailwind, HTML, CSS and Figma" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,nginx,linux,cloudflare,githubactions,git,vercel&perline=10" alt="Data and infrastructure technologies: PostgreSQL, MySQL, Docker, Kubernetes, Nginx, Linux, Cloudflare, GitHub Actions, Git and Vercel" />
+</p>
+
+## Contributions in 3D
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%" />
+</p>
 
 ## Writing & ideas
-
-I also write about the engineering decisions and product problems behind the work.
 
 - [Built for when the signal drops](https://mwalwama-joseph.vercel.app/blog/built-for-when-the-signal-drops)
 - [Every business has a map](https://mwalwama-joseph.vercel.app/blog/every-business-has-a-map)
@@ -112,15 +120,36 @@ I also write about the engineering decisions and product problems behind the wor
 
 [Read all articles →](https://mwalwama-joseph.vercel.app/blog)
 
+<details>
+  <summary><strong>📊 More GitHub stats</strong></summary>
+  <br />
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ugaly&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=45c5e2" alt="GitHub statistics" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugaly&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Most used languages" />
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=ugaly&theme=github-dark-blue&hide_border=true&background=0d1117&ring=45c5e2&fire=45c5e2&currStreakLabel=58a6ff" alt="GitHub contribution streak" />
+  </p>
+  <p align="center">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ugaly&bg_color=0d1117&color=58a6ff&line=45c5e2&point=ffffff&area=true&hide_border=true" alt="GitHub activity graph" />
+  </p>
+</details>
+
 ---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ugaly/ugaly/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ugaly/ugaly/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ugaly/ugaly/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
 
 <div align="center">
 
-  <strong>Have a system to build or improve?</strong>
+  **Have a system to build or improve?**
 
-  <br />
-
-  <a href="https://mwalwama-joseph.vercel.app/contact">Let's talk about it →</a>
+  <a href="https://mwalwama-joseph.vercel.app/contact">Let's talk →</a>
 
   <br /><br />
 
@@ -131,14 +160,3 @@ I also write about the engineering decisions and product problems behind the wor
   </sub>
 
 </div>
-
-<details>
-  <summary><strong>GitHub activity</strong></summary>
-  <br />
-  <div align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ugaly&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=45c5e2" alt="GitHub contribution statistics" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugaly&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Most used languages" />
-  </div>
-</details>
-
----
