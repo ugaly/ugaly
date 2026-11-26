@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://mwalwama-joseph.vercel.app">
-    <img src="./assets/hero.svg" alt="Joseph Mwalwama — Full-stack engineer building business-critical software" width="100%" />
+    <img src="./assets/hero.svg?v=2" alt="Joseph Mwalwama — Full-stack engineer building business-critical software" width="100%" />
   </a>
 
   <p>
